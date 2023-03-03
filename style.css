@@ -1,0 +1,24 @@
+.carousel-item{
+    height: 85vh;
+}
+.carousel-item img{
+    height: 85vh;
+    object-fit: cover;
+}
+.section-Matantimali,
+.section-TogeanIsland,
+.section-NusantaraMonument,
+.section-service{
+    margin: 7rem 0;
+}
+
+footer{
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.carousel-main{
+    width: auto;
+    height: auto;
+    border: 15px solid #f0fffb
+}
